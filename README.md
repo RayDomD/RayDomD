@@ -2,7 +2,6 @@
 
 Data analyst and freelance software engineer from Iloilo City, Philippines, studying at Central Philippine University. I turn messy data into decisions, and I build desktop tools that let people work alongside AI coding agents without losing control of the work.
 
-Open to junior Data Analyst roles.
 
 #### Currently building
 
