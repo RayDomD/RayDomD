@@ -12,9 +12,13 @@ Open to junior Data Analyst roles.
 **[Console Hub](https://github.com/RayDomD/Console-Hub)**: a local Windows app that runs and supervises AI agent sessions. It covers workspace exploration, interactive consoles, reusable Recipes, and Missions where an orchestrator plans, delegates and validates work. Nothing is applied until a human reviews the evidence and approves the result.
 <sub>Electron · React · TypeScript · xterm.js · node-pty</sub>
 
+**[Cockpit](https://github.com/RayDomD/Cockpit-Design)**: the desktop app where I start every working day. Projects, mail, scheduled jobs and skills live as one graph tumbling inside a geodesic cage, and I launch into the work from there. Source is private; the link covers its design language.
+<sub>Electron · React 19 · TypeScript · Canvas</sub>
+
+<a href="https://github.com/RayDomD/Cockpit-Design"><img src="https://raw.githubusercontent.com/RayDomD/Cockpit-Design/main/media/cockpit-rest.gif" alt="Cockpit at Rest" width="640"></a>
+
 #### Other work
 
-- **[Loom](https://github.com/RayDomD/Loom)**: local-first personal knowledge OS.
 - **[CICTrix](https://github.com/RayDomD/CICTrix)**: decision-support HRIS for the Local Government of Iloilo City (team project).
 - **[studybuddy-ui](https://github.com/RayDomD/studybuddy-ui)**: Vue front end for a study app with a Django REST backend.
 
