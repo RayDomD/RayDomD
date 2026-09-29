@@ -16,6 +16,11 @@ Data analyst and freelance software engineer from Iloilo City, Philippines, stud
 
 <a href="https://github.com/RayDomD/Cockpit-Design"><img src="https://raw.githubusercontent.com/RayDomD/Cockpit-Design/main/media/cockpit-rest.gif" alt="Cockpit at Rest" width="640"></a>
 
+**[Kinotta](https://github.com/RayDomD/kinotta)**: a review editor for AI-made motion graphics. Claude builds a reel inside your project, you pin comments to the exact element in a frame, and Claude builds the next version from that comment batch. Every version stays frozen, so the history of what was asked is kept. In design; the first phase, Storyboard, is specified.
+<sub>Node · React · TypeScript · Vite</sub>
+
+<a href="https://github.com/RayDomD/kinotta"><img src="https://raw.githubusercontent.com/RayDomD/kinotta/docs/foundation/docs/images/01-storyboard.png" alt="Kinotta storyboard mockup" width="640"></a>
+
 #### Other work
 
 - **[CICTrix](https://github.com/RayDomD/CICTrix)**: decision-support HRIS for the Local Government of Iloilo City (team project).
